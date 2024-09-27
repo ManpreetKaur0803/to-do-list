@@ -1,0 +1,14 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: rgba(3, 3, 56, 0.776);
+}
+.main-box {
+  background-color: beige;
+  width: 80vb;
+  height: 70vh;
+  margin: auto;
+  margin-top: 0%;
+}
